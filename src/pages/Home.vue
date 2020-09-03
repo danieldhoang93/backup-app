@@ -4,10 +4,10 @@
     <div class="headerGradient">
       <div class="row pageWidth header q-px-sm">
         <div class="col-12 col-md-6">
-          <div class="headerText text-h1 font">
+          <div class="headerText text-h1 font fadeInUp">
             Simplify<br>Your<br>Backups
           </div>
-          <div class="headerSubText q-pt-lg">
+          <div class="headerSubText q-pt-lg fadeInUp">
             Consolidate your information and save on operational costs
           </div>
           <div class="q-py-xl">
@@ -20,7 +20,7 @@
         
         <div class="col-12 col-md-6">
           <div class="largeScreen q-py-xl">
-            <img src='~/assets/clouddata.png' style="width:100%; z-index:-1"/>
+            <img src='~/assets/clouddata.png' style="width:100%; z-index:-1" class="fadeInUpDelay1"/>
           </div>
         </div>
       </div>
